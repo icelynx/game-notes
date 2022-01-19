@@ -1,5 +1,7 @@
 # Lost Ark
 
+Note: naming may not match the EU/NA launch, so "legacy" may not be "legacy" but instead "roster". Same may apply to every other term as well.
+
 ## When & Where
 
 8.2. with Founder's pack. 11.2. for all (free-to-play). Available through Steam.
@@ -23,10 +25,12 @@
    - Send to pet: ctrl + left click
    - In warehouse, send to warehouse and vice versa: alt + right click
    - In shop, buy in bulk: shift + right click
+- Song of escape: teleport out of any kind of instanced content
 
 ## Leveling up
 
 - Level cap 50 (at T1 content)
+- At level 30, main quest icon changes to blue one. One will be leaving East Luterra and next stop is Tortoyk
 - Focus on server-wide content, stronghold and life-skills as they will benefit all characters and not just the first one
 - Health potions: all nice to have at endgame, especially those with "heal %" effect so save them
 - Bombs: all nice at endgame so save them
@@ -37,24 +41,63 @@
    - Craft potions/bombs/gear in stronghold
    - Basically way to save gold
 - Leveling life skills (fishing etc.) helps in the long run
-- Cards long-term progression system: completing decks give out bonuses (server-wide system)
-
-## General tips
-
-- Song of escape: teleport out of any kind of instanced conten
-- TODO: engravings https://www.youtube.com/watch?v=J5EJcmjBHuU
 
 ## Endgame
 
-- Daily/weekly missions that are limited to character so having multiple characters makes it possible to do them multiple times
+- Chaos dungeons: mob waves + bosses, solo or group, quick, twice per day per character for all the rewards
+- Guardian raids: small area with a large monster and a timer, can be done as group or solo, twice per day per character for all the rewards
+- Abyssal dungeons: trash mobs + 2 bosses, once per week per dungeon per character, group content
+   - rewards dungeon armors that give set bonuses
+- Classic MMO raids: requires 8 players, mechanics heavy (a lot of trial and error)
+- Cube dungeons: access only with a ticket, solo or group, requires a lot of coordination and not forgiving
+- Trial paths: access only with a ticket, boss rush dungeon, solo or group content
+- Towers: solo content, many floors with different challenges
+- Chaos gates: 4 times a week, once per hour, limited participants. Rewards once per day. Get in, find commander and kill them. Opens treasure dungeon for group.
+- Ghost ships: similar to chaos gates but on sea and without treasure dungeon. Get in with a group if possible
+- Field bosses: around the world a large boss with loot, everyone can participate who happens around, loot once per day
+- Una's tasks: daily and weekly quests with great rewards, main way to get gold
+   - On your main character, it is recommended to do the ones that give Leap Stones or Fragments.
+- Adventure Islands with varying content depending on island, all are not always available
+- Collectibles (generally server wide so for all characters)
+   - Island tokens: gives upgrade materials
+   - Giant hearts: quests, rewards, towers, npcs, etc.
+   - Mokoko seeds: scattered and hidden around arkesia
+   - World tree leaves: do lifeskills to get these, enhance lifeskills
+   - Masterpieces: adventure book, towers, etc.
+   - Ignea's tokens: adventure book
+   - Sea bounties: quests, rewards, towers, npcs, etc.
+- Cards: long-term progression system: completing decks give out bonuses (server-wide system)
+- Rapport actions: 5 songs + 5 emotes daily that can be done to specific NPCs to gain rapport for rewards
+
+- Rest gauge: 0 to 100 rest gauge, every day increases gauge by 10, doing chaos dungeon or guardian raid uses 20 gauge to get double rewards
+   - Creating alt(s) straightaway will get those modifiers up and running from day 1
+- Gear can be upgraded from 0 to 20 with materials from chaos dungeons and guardian raids
+   - For next set of gear, one needs to have lvl 15 gear. No need to upgrade further
+- https://www.youtube.com/watch?v=jj8Z9PvC9Dk
+
+Dailies priority: rapport actions > unas's > chaos dungeons / guardian raids / towers / rest
+Weeklies priority: una's > rest
 
 ## Guild
 
 - Starts at max 30 characters, upgradable
-- GvG PVP through zone control (basically limited to no-life guilds)
-- Missions to give the guild AND characters stuff
-   - Guild marine missions are often easily farmed
-- TODO
+- To participate in some of the events, requires somewhat many active members
+- Guild has its own (upgradable) shop that sells various resources
+   - Contributing to guild awars guild currency usable in that shop
+- Guilds are ranked
+- Guild activites organizable through guild (P2W, better gear gives advantage but can be offset with time and/or skill)
+   - GvG PVP
+   - GvE PVE
+   - Guild quests
+- Islands that give rewards for guilds based on ranking
+   - PVP (mainly)
+   - PVE
+   - Races
+- Boss raids
+- Guild quests
+   - Missions to give the guild AND characters stuff
+   - Repeatable
+- Guild (upgradable) skills (special skills to use in Guild activities)
 
 ## PVE
 
@@ -68,7 +111,10 @@
 
 ## Characters and classes
 
-- https://www.youtube.com/watch?v=0UjYdMoNWzA&start=1771
+- One must choose a server to play on
+   - Characters and other progress cannot be moved between servers except during "server transfer" windows and it costs around 20€
+   - All characters on server will share server-wide content so not really feasible to play on multiple servers
+   - One can only play with other players on that same server
 - Main isn't really a thing yet in T1 (or T2) content, only around T3 (these are like expansions) so switching "main" is completely possible
 - Two build slots that can each can be freely whenever changed
    - Typically one for mobbing (a lot of small enemies) and one for bosses
@@ -87,14 +133,22 @@
    - CounterAttack: Attack directly from front stuns boss for few seconds
    - Destruction: Break shields (red glow) some bosses apply to do more damage
 - Runes appliable to skills and they modify how that skill works
+- Engravings are passive bonuses
+   - Combat engravings: general passives and accessible for all characters on server
+   - Class engravings: class-specific that may alter character playstyle
+   - Unlocked with seal books in Tier 1 (green), Tier 2 (blue), Tier 3 (purple) and Tier 4 (legendary) order
+- https://www.youtube.com/watch?v=0UjYdMoNWzA&start=1771
 
-### Paladin
+### Paladin (rekz)
 
-- S-tier PVE ja PVP
 - Leveling skills (generally blue, dps skills): https://youtu.be/DNc60wgIgmI
 - End-game (support) build: https://www.youtube.com/watch?v=Ia5SlWmSBUg
 
-### Deathblade
+### Deathblade (mimi)
 
-- S-tier PVP
-- A-tier PVE
+### Berserker (daig)
+
+### Gunslinger (???)
+
+### Demonic (???)
+
