@@ -41,6 +41,7 @@ Note: naming may not match the EU/NA launch, so "legacy" may not be "legacy" but
    - Craft potions/bombs/gear in stronghold
    - Basically way to save gold
 - Leveling life skills (fishing etc.) helps in the long run
+- PVP unlocks lvl 26 at Luterra Castle, rewards (supposedly) start dropping at lvl 30.
 
 ## Endgame
 
@@ -99,16 +100,6 @@ Weeklies priority: una's > rest
    - Repeatable
 - Guild (upgradable) skills (special skills to use in Guild activities)
 
-## PVE
-
-- PVE Tier List: https://youtu.be/iBoxLmNKUBo
-
-## PVP
-
-- Unlocks lvl 26 at Luterra Castle
-- PVP rewards (supposedly) start dropping at lvl 30.
-- PVP Tier lists: https://youtu.be/jg2Y50iQCds & https://www.youtube.com/watch?v=s3kAfyocM4s&start=809
-
 ## Characters and classes
 
 - One must choose a server to play on
@@ -116,6 +107,8 @@ Weeklies priority: una's > rest
    - All characters on server will share server-wide content so not really feasible to play on multiple servers
    - One can only play with other players on that same server
 - Main isn't really a thing yet in T1 (or T2) content, only around T3 (these are like expansions) so switching "main" is completely possible
+- PVE Tier List: https://youtu.be/iBoxLmNKUBo
+- PVP Tier Lists: https://youtu.be/jg2Y50iQCds & https://www.youtube.com/watch?v=s3kAfyocM4s&start=809
 - Two build slots that can each can be freely whenever changed
    - Typically one for mobbing (a lot of small enemies) and one for bosses
    - When leveling, often useful to have one for soloing and one for grouping
@@ -148,7 +141,7 @@ Weeklies priority: una's > rest
 
 ### Berserker (daig)
 
-### Gunslinger (???)
+### Gunslinger (sorrows)
 
 ### Demonic (???)
 
