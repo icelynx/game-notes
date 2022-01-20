@@ -29,7 +29,8 @@ Note: naming may not match the EU/NA launch, so "legacy" may not be "legacy" but
 
 ## Leveling up
 
-- Level cap 50 (at T1 content)
+- Level cap 50, with Rohendel (starts after main q) 55 (at T1 content)
+- Besides character level there's "item level" that tells how good character's gear is. This is the main limiter for endgame content.
 - At level 30, main quest icon changes to blue one. One will be leaving East Luterra and next stop is Tortoyk
 - Focus on server-wide content, stronghold and life-skills as they will benefit all characters and not just the first one
 - Health potions: all nice to have at endgame, especially those with "heal %" effect so save them
