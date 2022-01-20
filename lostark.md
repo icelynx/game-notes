@@ -75,7 +75,7 @@ Note: naming may not match the EU/NA launch, so "legacy" may not be "legacy" but
    - For next set of gear, one needs to have lvl 15 gear. No need to upgrade further
 - https://www.youtube.com/watch?v=jj8Z9PvC9Dk
 
-Dailies priority: rapport actions > unas's > chaos dungeons / guardian raids / towers / rest
+Dailies priority: rapport actions > unas's > chaos dungeons / guardian raids / towers / rest  
 Weeklies priority: una's > rest
 
 ## Guild
