@@ -1,14 +1,30 @@
 # Lost Ark
 
-Note: naming may not match the EU/NA launch, so "legacy" may not be "legacy" but instead "roster". Same may apply to every other term as well.
+Note: naming may not match the EU/NA launch, so "legacy" may not be "legacy" but instead "roster" or "account". Same may apply to every other term as well.
 
 ## When & Where
 
-8.2. with Founder's pack. 11.2. for all (free-to-play). Available through Steam.
+Pre-load 7.2. 17:00 UTC. 8.2. 17:00 UTC with Founder's pack. 11.2. 17:00 UTC for all (free-to-play). Available through Steam.
+
+EU Server list:
+- Neria (unofficial Polish server)
+- Kadan (unofficial English server)
+- Trixion (unofficial French server)
+- Calvasus
+- Thirain
+- Zinnervale
+- Asta (unofficial German server)
+- Wei (unofficial - even that with grain of salt - scandic/english server)
+- Slen
+
+Community manager has indicated that language specific servers are being looked into.
+
+Launch details: https://www.playlostark.com/en-us/news/articles/launch-details
 
 ## Resources
 
 - https://papunika.com/
+- https://lost-ark.maxroll.gg/
 - https://docs.google.com/document/u/0/d/1crRJgoDw2I9Al4IAbLxgEwJ-g3g_KvZmk2yrO2AksuI/mobilebasic#heading=h.ywo37o60oalx
 
 ## Settings & controls
@@ -27,13 +43,21 @@ Note: naming may not match the EU/NA launch, so "legacy" may not be "legacy" but
    - In shop, buy in bulk: shift + right click
 - Song of escape: teleport out of any kind of instanced content
 
+## Tiers
+
+Lost Ark has content in so called "tiers": Tier 1 (T1), Tier 2 (T2) and Tier 3 (T3). T1 content is the base game, T2 first expansion and T3 the latest expansion. Need for upgrade materials (read: grind) goes up with each tier of content, as does the difficulty. EU/NA is getting full T1 and T2 content and partially T3 content at launch.
+
 ## Leveling up
 
-- Level cap 50, with Rohendel (starts after main q) 55 (at T1 content)
+- Max level capped at 60
+   - Leveling hits a wall at 50, last 10 levels will take a long time
+   - Endgame opens at level 50
+   - First Awakening quest line starts at 50 (class specific unique skills)
 - Besides character level there's "item level" that tells how good character's gear is. This is the main limiter for endgame content.
 - At level 30, main quest icon changes to blue one. One will be leaving East Luterra and next stop is Tortoyk
 - Focus on server-wide content, stronghold and life-skills as they will benefit all characters and not just the first one
 - Health potions: all nice to have at endgame, especially those with "heal %" effect so save them
+   - If need be, use regenerative potions (harder dungeons etc. might need them)
 - Bombs: all nice at endgame so save them
 - There are hidden zones not visible in minimap but can be found by exploring
 - First pet available after first dungeon. Pet loots stuff for you so you don't have to
@@ -43,6 +67,8 @@ Note: naming may not match the EU/NA launch, so "legacy" may not be "legacy" but
    - Basically way to save gold
 - Leveling life skills (fishing etc.) helps in the long run
 - PVP unlocks lvl 26 at Luterra Castle, rewards (supposedly) start dropping at lvl 30.
+- To reach level 50 as soon as possible, completely focus on main quest with some side quests done near level 45
+- There's also account level that's not tied to a character but instead all characters level up. Gives rewards
 
 ## Endgame
 
@@ -83,7 +109,7 @@ Weeklies priority: una's > rest
 ## Guild
 
 - Starts at max 30 characters, upgradable
-- To participate in some of the events, requires somewhat many active members
+- To participate in events, requires somewhat many active members
 - Guild has its own (upgradable) shop that sells various resources
    - Contributing to guild awars guild currency usable in that shop
 - Guilds are ranked
@@ -101,13 +127,20 @@ Weeklies priority: una's > rest
    - Repeatable
 - Guild (upgradable) skills (special skills to use in Guild activities)
 
+## PVP
+
+- Use 21:9 aspect ratio for advantage
+- FOV is different for teams, see: https://www.youtube.com/watch?v=sGvFIZnIslQ
+
 ## Characters and classes
 
 - One must choose a server to play on
    - Characters and other progress cannot be moved between servers except during "server transfer" windows and it costs around 20€
    - All characters on server will share server-wide content so not really feasible to play on multiple servers
+   - All instanced content like dungeons, pvp, raids, auction house, etc. are cross-server so the server one is on doesn't matter
+   - All non-instanced content content like adventure quests, islands, world bosses, etc. are limited to the server one is on
    - One can only play with other players on that same server
-- Main isn't really a thing yet in T1 (or T2) content, only around T3 (these are like expansions) so switching "main" is completely possible
+- For T1 and T2 content, Main characters aren't really a thing so one is free to explore different characters. Going into T3 content, the materials required to be competitive get so hard to get that people typically start maining a character
 - PVE Tier List: https://youtu.be/iBoxLmNKUBo
 - PVP Tier Lists: https://youtu.be/jg2Y50iQCds & https://www.youtube.com/watch?v=s3kAfyocM4s&start=809
 - Two build slots that can each can be freely whenever changed
@@ -116,10 +149,7 @@ Weeklies priority: una's > rest
    - Supports may have the mold and create support build and solo build
    - PVP has their own builds so no need to dedicate slot for them
    - More can be purchased
-- Two different types of leveling: character leveling and legacy system
-   - Character leveling is experience and levels that the single character has gained
-   - Legacy system is account wide leveling experience that all characters on same server share and gain the benefits
-- Around lvl 30ish, Trision has a training ground with all available skills to character to test out builds
+- Around lvl 30ish, Trixion has a training ground with all available skills to character to test out builds
 - Skill modifiers explanations
    - Back attack (directly from behind): 5% bonus damage, 10% bonus chance to crit
    - Head shot (directly from front): 20% bonus damage, 10% bonus stagger damage
@@ -132,17 +162,4 @@ Weeklies priority: una's > rest
    - Class engravings: class-specific that may alter character playstyle
    - Unlocked with seal books in Tier 1 (green), Tier 2 (blue), Tier 3 (purple) and Tier 4 (legendary) order
 - https://www.youtube.com/watch?v=0UjYdMoNWzA&start=1771
-
-### Paladin (rekz)
-
-- Leveling skills (generally blue, dps skills): https://youtu.be/DNc60wgIgmI
-- End-game (support) build: https://www.youtube.com/watch?v=Ia5SlWmSBUg
-
-### Deathblade (mimi)
-
-### Berserker (daig)
-
-### Gunslinger (sorrows)
-
-### Demonic (???)
 
