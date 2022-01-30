@@ -12,9 +12,9 @@ EU Server list:
 - Trixion (unofficial French server)
 - Calvasus
 - Thirain
-- Zinnervale
+- Zinnervale (unofficial Nordic/English server)
 - Asta (unofficial German server)
-- Wei (unofficial - even that with grain of salt - scandic/english server)
+- Wei (unofficial Spanish server)
 - Slen
 
 Community manager has indicated that language specific servers are being looked into.
