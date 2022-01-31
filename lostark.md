@@ -69,6 +69,7 @@ Lost Ark has content in so called "tiers": Tier 1 (T1), Tier 2 (T2) and Tier 3 (
 - PVP unlocks lvl 26 at Luterra Castle, rewards (supposedly) start dropping at lvl 30.
 - To reach level 50 as soon as possible, completely focus on main quest with some side quests done near level 45
 - There's also account level that's not tied to a character but instead all characters level up. Gives rewards
+- Noob (PVE) combat guide: https://www.youtube.com/watch?v=YqbIPVWsXrk
 
 ## Endgame
 
@@ -155,7 +156,7 @@ Weeklies priority: una's > rest
    - Head shot (directly from front): 20% bonus damage, 10% bonus stagger damage
    - Stagger (bar under boss health bar): when depleted, boss is stunned for few seconds
    - CounterAttack: Attack directly from front stuns boss for few seconds
-   - Destruction: Break shields (red glow) some bosses apply to do more damage
+   - Destruction: Break shields (red glow) some bosses apply to do more damage, destroy parts of bosses to make fights easier
 - Runes appliable to skills and they modify how that skill works
 - Engravings are passive bonuses
    - Combat engravings: general passives and accessible for all characters on server
