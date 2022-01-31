@@ -7,7 +7,7 @@ Note: naming may not match the EU/NA launch, so "legacy" may not be "legacy" but
 Pre-load 7.2. 17:00 UTC. 8.2. 17:00 UTC with Founder's pack. 11.2. 17:00 UTC for all (free-to-play). Available through Steam.
 
 EU Server list:
-- Neria (unofficial Polish server)
+- Neria (unofficial Polish and Italian server)
 - Kadan (unofficial English server)
 - Trixion (unofficial French server)
 - Calvasus
