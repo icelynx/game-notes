@@ -14,6 +14,7 @@
 
 ## PVP
 
+- https://lostarkhub.com/lost-ark-paladin-pvp-guide-stats-skills-and-builds/
 - https://www.youtube.com/watch?v=zRGnWiJyl8Y
 - https://www.youtube.com/watch?v=DzGA0ZElEeY
 - https://www.youtube.com/watch?v=8poM2GYpad4
