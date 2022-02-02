@@ -162,5 +162,8 @@ Weeklies priority: una's > rest
    - Combat engravings: general passives and accessible for all characters on server
    - Class engravings: class-specific that may alter character playstyle
    - Unlocked with seal books in Tier 1 (green), Tier 2 (blue), Tier 3 (purple) and Tier 4 (legendary) order
+   - Accessories can also boost engravings AND also work towards negative engravings (as drawback)
+   - One of the most expensive things in the game that directly translates into a build for character so plan ahead
+   - Must watch: https://www.youtube.com/watch?v=iKPa0yiicDo
 - https://www.youtube.com/watch?v=0UjYdMoNWzA&start=1771
 
