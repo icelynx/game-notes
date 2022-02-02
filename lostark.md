@@ -165,5 +165,7 @@ Weeklies priority: una's > rest
    - Accessories can also boost engravings AND also work towards negative engravings (as drawback)
    - One of the most expensive things in the game that directly translates into a build for character so plan ahead
    - Must watch: https://www.youtube.com/watch?v=iKPa0yiicDo
+   - Stone boosts engravings a lot and making a proper one is RNG heavy, see this guide: https://youtu.be/CxpQ_VUjgTQ?t=236
 - https://www.youtube.com/watch?v=0UjYdMoNWzA&start=1771
+- https://www.youtube.com/watch?v=4oIb35347MQ
 
