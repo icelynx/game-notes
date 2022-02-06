@@ -133,7 +133,7 @@ Weeklies priority: una's > rest
 - Use 21:9 aspect ratio for advantage
 - FOV is different for teams, see: https://www.youtube.com/watch?v=sGvFIZnIslQ
 
-## Characters and classes
+## Characters, roster and getting stronger
 
 - One must choose a server to play on
    - Characters and other progress cannot be moved between servers except during "server transfer" windows and it costs around 20€
@@ -142,8 +142,6 @@ Weeklies priority: una's > rest
    - All non-instanced content content like adventure quests, islands, world bosses, etc. are limited to the server one is on
    - One can only play with other players on that same server
 - For T1 and T2 content, Main characters aren't really a thing so one is free to explore different characters. Going into T3 content, the materials required to be competitive get so hard to get that people typically start maining a character
-- PVE Tier List: https://youtu.be/iBoxLmNKUBo
-- PVP Tier Lists: https://youtu.be/jg2Y50iQCds & https://www.youtube.com/watch?v=s3kAfyocM4s&start=809
 - Two build slots that can each can be freely whenever changed
    - Typically one for mobbing (a lot of small enemies) and one for bosses
    - When leveling, often useful to have one for soloing and one for grouping
@@ -157,7 +155,18 @@ Weeklies priority: una's > rest
    - Stagger (bar under boss health bar): when depleted, boss is stunned for few seconds
    - CounterAttack: Attack directly from front stuns boss for few seconds
    - Destruction: Break shields (red glow) some bosses apply to do more damage, destroy parts of bosses to make fights easier
-- Runes appliable to skills and they modify how that skill works
+- Gems either reduce cooldown (spheres) or increase damage (triangulars) of certain skill
+   - Each skill can have one cooldown gem and one damage gem but not multiple
+   - Different gems for different tiers, effectivity reduced on wrong tier. Since T3 immediately available, no need to put a lot of value into T1 and T2 gems.
+   - Any gem can be rerolled and its guaranteed to have one of your classes skill
+   - Because of RNG, it's not advisable to try to roll a skill you want. Instead, buy the gem with specific from AH. One can then sell the old gem you replace with new one.
+   - Three gems can be combined and its guaranteed to have one of your classes skill and it will become either cooldown or damage gem. Combining gems increases their level (effectiveness)
+- Tripods are skill modifiers that come in three rows, each better than the last
+   - Tripod rows are unlocked by leveling the skill: first row on level 4, second row on level 7 and third row on level 10.
+   - Skills are leveled with skill points. Reaching tripod first row takes 4 skill points, 20 to reach second row and 48 to reach the third row
+   - Tripods also have levels which make them more effective. Tripods are leveled through T3 gear (T1 and T2 gear do not have tripod levels)
+   - Tripod levels can be moved from gear to another piece of gear with small chance of success (but the source gear will always be destroyed). Higher the tripod level, the smaller the chance of success
+   - Gear tripod levels can be saved to a library, one slot for each type of gear. Library can be used to apply saved tripods to any piece of gear of the same type.
 - Engravings are passive bonuses
    - Combat engravings: general passives and accessible for all characters on server
    - Class engravings: class-specific that may alter character playstyle
@@ -166,6 +175,17 @@ Weeklies priority: una's > rest
    - One of the most expensive things in the game that directly translates into a build for character so plan ahead
    - Must watch: https://www.youtube.com/watch?v=iKPa0yiicDo
    - Stone boosts engravings a lot and making a proper one is RNG heavy, see this guide: https://youtu.be/CxpQ_VUjgTQ?t=236
+- Cards are account-wide collectibles that give negligeble passive bonuses AND can be used to create a deck for a character
+   - NEVER throw out cards, if there are no space then store in alts inventory. You will use all cards eventually
+   - By default cards defensive bonuses, when "awakened" (read: upgraded) give also offensive bonuses, requires copies of the same card and card exp
+   - A card deck will give bonuses based on how many times its cards have been awakened (for example, may require 15 awakenings in a deck)
+- Lifeskills are account-wide (both experience and equipment wise) ways to gather resources that are used for item upgrades and estate upgrade
+   - Optional, resources can be bought from other players as well BUT that will get expensive
+   - Certain amount of energy that limits how much lifeskills can be done. Regenerates each day but takes like three days to get to max.
+   - Lifeskill equipment needs superarmor (except fishing) which prevents enemies interrupting you when doing a lifeskill. Easy to way to get is to buy equipment from NPC until superarmor one appears
+   - Herbalism: create potions, armors, etc. (battleitems)
+   - Wood and iron/rocks: upgrade estate (useful at beginning)
+   - Hunting, fishing and archeology: craft item upgrades (rocks are the main bottleneck). Archeology is most efficient but also most contested (nodes shared). Fishing is least efficient but not contested at all (nodes are not shared).
+   - Lifeskills can also be done in estate very inefficiently but with no time
 - https://www.youtube.com/watch?v=0UjYdMoNWzA&start=1771
 - https://www.youtube.com/watch?v=4oIb35347MQ
-
